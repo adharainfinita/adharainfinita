@@ -13,15 +13,13 @@
 
 - 👯 I starting my academic studies on [UADER](https://www.linkedin.com/in/fcyt-uader-sede-concepci%C3%B3n-del-uruguay-956909223/)
 
-- 👨‍💻 All of my projects are available at [https://adharainfinita.github.io/Portfolio](https://adharainfinita.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [https://adharainfinita.github.io/Portfolio](https://adharainfinita.github.io/NewPortfolio)
 
 - 💬 Ask me about **Javascript, React, my progress;)**
 
 - 📫 How to reach me **adharanosalevich@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adhara-redruello-81a704262/](https://www.linkedin.com/in/adhara-redruello-81a704262/)
-
-- ⚡ Fun fact: **I'm transwoman === Life level Hard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
